@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Boris Yakubchik 😊
 
-<!--
-**whyboris/whyboris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some things I created:
 
-Here are some ideas to get you started:
+- 📽 [Video Hub App](https://videohubapp.com) - MIT open source: [GitHub](https://github.com/whyboris/Video-Hub-App)
+- 🔃 [Simplest File Renamer](https://yboris.dev/renamer/) - MIT open source: [GitHub](https://github.com/whyboris/Simplest-File-Renamer)
+- 📈 [Income-Inequality](https://income-inequality.info/) interactive visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A bit about me:
+
+- 🌍 Proud to be a part of the [Effective Altruism](https://www.effectivealtruism.org/) movement, giving at least 10% of my income to [cost-effective](https://www.givewell.org/charities/top-charities) charities.
+- 🛠 [yboris.dev](https://yboris.dev/) 
+- 😊 [yboris.com](https://yboris.com/)
+- 🐤 [Twitter](https://twitter.com/whyboris)
