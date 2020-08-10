@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Boris Yakubchik 😊
+### Hi there 👋 I'm Boris Yakubchik 😊
 
 Here are some things I created:
 
 - 📽 [Video Hub App](https://videohubapp.com) - MIT open source: [GitHub](https://github.com/whyboris/Video-Hub-App)
 - 🔃 [Simplest File Renamer](https://yboris.dev/renamer/) - MIT open source: [GitHub](https://github.com/whyboris/Simplest-File-Renamer)
-- 📈 [Income-Inequality](https://income-inequality.info/) interactive visualization
+- 📈 [Income-Inequality](https://income-inequality.info/) interactive visualization. [Data](https://github.com/whyboris/Global-Income-Distribution) and [HTML + JS](https://github.com/whyboris/income-inequality.info)
 
 A bit about me:
 
