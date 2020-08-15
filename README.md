@@ -2,12 +2,12 @@
 
 Here are some things I created:
 
-| Project | Description | MIT Open Source |
-| ------- | ----------- | ------ |
-| 📽 [Video Hub App](https://videohubapp.com) | Browse your videos better | [GitHub](https://github.com/whyboris/Video-Hub-App) |
-| 🔃 [Simplest File Renamer](https://yboris.dev/renamer/) | Batch rename files | [GitHub](https://github.com/whyboris/Simplest-File-Renamer) |
-| 🥅 [TypeScript Call Graph](https://www.npmjs.com/package/typescript-call-graph) | Visualize function calls | [GitHub](https://github.com/whyboris/TypeScript-Call-Graph) |
-| 📈 [Income-Inequality](https://income-inequality.info/) | Interactive visualization | [Data](https://github.com/whyboris/Global-Income-Distribution) & [HTML + JS](https://github.com/whyboris/income-inequality.info) |
+|  | Project | Description | MIT Open Source |
+| --- | ------ | ----------- | ------ |
+| 📽 | [Video Hub App](https://videohubapp.com) | Browse your videos better | [GitHub](https://github.com/whyboris/Video-Hub-App) |
+| 🔃 | [Simplest File Renamer](https://yboris.dev/renamer/) | Batch rename files | [GitHub](https://github.com/whyboris/Simplest-File-Renamer) |
+| 🥅 | [TypeScript Call Graph](https://www.npmjs.com/package/typescript-call-graph) | Visualize function calls | [GitHub](https://github.com/whyboris/TypeScript-Call-Graph) |
+| 📈 | [Income-Inequality](https://income-inequality.info/) | Interactive visualization | [Data](https://github.com/whyboris/Global-Income-Distribution) & [HTML + JS](https://github.com/whyboris/income-inequality.info) |
 
 A bit about me:
 
