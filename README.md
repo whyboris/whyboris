@@ -2,7 +2,7 @@
 
 Here are some things I created:
 
-| Project | Description | GitHub |
+| Project | Description | MIT Open Source |
 | ------- | ----------- | ------ |
 | 📽 [Video Hub App](https://videohubapp.com) | Browse your videos better | [GitHub](https://github.com/whyboris/Video-Hub-App) |
 | 🔃 [Simplest File Renamer](https://yboris.dev/renamer/) | Batch rename files | [GitHub](https://github.com/whyboris/Simplest-File-Renamer) |
