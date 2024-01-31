@@ -9,7 +9,7 @@ Here are some things I created:
 | 📜 | [TypeScript Call Graph](https://www.npmjs.com/package/typescript-call-graph) | Visualize function calls | [GitHub](https://github.com/whyboris/TypeScript-Call-Graph) |
 | 🌐 | [JSON-i18n-Editor](https://github.com/whyboris/JSON-i18n-Editor) | System for a team to translate a website | [GitHub](https://github.com/whyboris/JSON-i18n-Editor) |
 | 📈 | [Income-Inequality](https://income-inequality.info/) | Interactive visualization | [Data](https://github.com/whyboris/Global-Income-Distribution) & [HTML + JS](https://github.com/whyboris/income-inequality.info) |
-| ♥ | [Utilitarianism.net](https://utilitarianism.net) | Pro bono for the best moral theory | [GitHub](https://github.com/whyboris/utilitarianism.net) |
+| ❤ | [Utilitarianism.net](https://utilitarianism.net) | Pro bono for the best moral theory | [GitHub](https://github.com/whyboris/utilitarianism.net) |
 
 A bit about me:
 
